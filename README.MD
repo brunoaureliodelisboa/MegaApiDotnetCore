@@ -1,6 +1,6 @@
-atender aos requisitos propostos. A documentação foi criada com o auxílio de ferramentas de IA, como o GitHub Copilot, que contribuíram para a geração de textos, estruturação das seções e inclusão de imagens ilustrativas. O conteúdo está organizado em tópicos, tabelas e diagramas de arquitetura para facilitar o entendimento e a navegação.
+Este repositório **MegaApiDotnetCore** foi escolhido para atender à proposta apresentada. A documentação foi elaborada utilizando ferramentas de IA, como o GitHub Copilot, para auxiliar na geração de textos, estruturação das seções e inclusão de imagens ilustrativas. O conteúdo está organizado em tópicos, tabelas e diagramas para facilitar o entendimento e navegação.
 
-A seguir, você encontrará exemplos de seções, tabelas de endpoints, dependências e diagramas de arquitetura, todos gerados e revisados com o suporte de IA, conforme solicitado.
+Abaixo, você encontra exemplos de seções, tabelas de endpoints, dependências e diagramas da arquitetura, todos gerados e revisados com o apoio de IA, conforme solicitado.
 
   <br />
   <img
