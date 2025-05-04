@@ -1,4 +1,4 @@
-<h1 align="center">
+
   <br />
   <img
     src="./_docs/assets/icon.png"
